@@ -1,5 +1,5 @@
 def greet():
-    return "Hello, Version Control Automation using Git and GitHub!"
+    return "Automation is Working Successfully!"
 
 if __name__ == "__main__":
     print(greet())
